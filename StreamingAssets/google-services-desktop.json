@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686564190403",
+    "project_id": "bagimsizyapabilirimdev",
+    "storage_bucket": "bagimsizyapabilirimdev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686564190403:android:be64252bebfcc90b80da76",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.BagimsizYapabilirim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtsxPnjLXO8rkWOCXzRCY9HSP1DSJaIs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
